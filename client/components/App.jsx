@@ -12,16 +12,12 @@ import UserQuery from './UserQuery/UserQuery.jsx';
 // }
 class App extends React.Component {
   render () {
-    return(
+    return (
       <div>
       <h1 id ='title'>Melli: Music recommendation application, search by lyrics</h1>
       {/* <MainDisplay></MainDisplay> */}
       <UserQuery></UserQuery>
       </div>
-
-    //   ***!!!!!
-    //   Hey! can you please leave the liveshare up ?
-    //   ***
     );
   }
 }
