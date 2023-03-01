@@ -10,20 +10,3 @@ render (
   </BrowserRouter>,
   document.getElementById('root')
 )
-
-// render({
-//   return (
-//     <div>
-//   <h1>It worked.</h1>
-//   </div >,
-//   document.getElementById('root')
-
-    
-//   )
-// }
-  
-//   return (
-  
-// )
-
-
